@@ -27,6 +27,16 @@ Explorar
 Pesquisa realizada em índices Dentro dos aplicativosCrie visualizações de dados
 
 ﻿
-Enriquecimento e índice de IA 
+O conteúdo enriquecido é criado por conjuntosde habilidades como: Reconhecer entidades no textoTraduzir textoAvalie o sentimento
+
+﻿Um conjunto de habilidades produz documentos enriquecidos Consumido durante a indexaçãoOs dados serializados são passados ao mecanismo de pesquisa para indexação.
+
+
+ Enriquecimento e índice de IA 
 Permite uma compreensão mais profundaVisão, Processamento de Linguagem Natural, etc. A indexação torna o conteúdo pesquisável.
+
+
+## Links Importantes
+ 
+Explore an Azure AI Search index (UI)
 
