@@ -8,3 +8,20 @@
     O número total de passos que o herói deve dar (um número inteiro).
     SaídaImprima a posição final do herói após dar a quantidade de passos especificada.
   ExemplosA tabela abaixo apresenta exemplos com alguns dados
+
+
+
+
+
+
+
+
+const posicaoInicial = parseInt(gets(10));
+const totalPassos = parseInt(gets(6));
+
+//TODO: Calcule a posição final do herói:
+const posicaoFinal = posicaoInicial + totalPassos ;
+
+
+// Imprime a posição final
+print("Posicao final do heroi:", posicaoFinal);
